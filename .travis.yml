@@ -3,5 +3,6 @@ node_js:
   - v6.1
 install:
   - npm install mocha
+  - npm install selenium-webdriver
 script:
   - mocha test/*
