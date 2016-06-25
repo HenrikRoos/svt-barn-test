@@ -17,9 +17,6 @@
     "selenium",
     "svti"
   ],
-  "devDependencies": {
-    "selenium-webdriver": "^2.53.2"
-  },
   "repository": "https://github.com/HenrikRoos/svt-barn-test.git",
   "scripts": {
     "test": "mocha"
