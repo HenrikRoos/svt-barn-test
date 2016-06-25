@@ -5,7 +5,7 @@ var phantomjs = require('selenium-webdriver/phantomjs');
 // var chrome = require('selenium-webdriver/chrome');
 
 test.describe('Verifiera att det går att komma till barnplay-sidan från startsidan', function () {
-  this.timeout(20000);
+  this.timeout(18000);
   var driver;
   test.before(function () {
     driver = new phantomjs.Driver();
