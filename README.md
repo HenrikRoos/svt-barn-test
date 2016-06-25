@@ -13,3 +13,5 @@ In root of svt-barn-test folder
     
     mocha test/*
 
+# Travis CI
+See the latest build process [![Build Status](https://travis-ci.org/HenrikRoos/svt-barn-test.svg?branch=master)](https://travis-ci.org/HenrikRoos/svt-barn-test)
